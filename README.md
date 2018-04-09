@@ -1,1 +1,3 @@
-# Supreme-Bot-Git
+# Information file
+
+# Add stuff later
