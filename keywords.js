@@ -10,4 +10,5 @@ for each(letter in words){
     key+=letter;
   }
 }
+  return arrayWord;
 }
